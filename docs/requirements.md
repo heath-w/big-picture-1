@@ -14,13 +14,13 @@
 
 1. Create a modern application structure that the project files can live in. [x]
 
-2. Create a package.json (npm init) to save dependencies. [ ]
+2. Create a package.json (npm init) to save dependencies. [x]
 
-3. Install gulp as a dependency. [ ]
+3. Install gulp as a dependency. [x]
 
-4. Create a gulpfile to run our routine tasks. [ ]
+4. Create a gulpfile to run our routine tasks. [x]
 	
-	a. Convert SASS files to CSS. [ ]
+	a. Convert SASS files to CSS. [x]
 
 	b. Make sure our HTML documents reference our constructed CSS files. [ ]
 

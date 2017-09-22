@@ -18,7 +18,7 @@ gulp.task( 'sassify', function() {
 
 gulp.task( 'htmlify', function() {
 	return gulp.src( 'app/**/*.html' )
-		.pipe( gulp.dest( 'dist/**') );
+		.pipe( gulp.dest( 'dist') );
 });
 
 gulp.task( 'watch', function() {
